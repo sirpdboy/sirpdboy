@@ -18,7 +18,7 @@ jobs:
           filename: metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
-          user: MuaCat
+          user: sirpdboy
           config_timezone: Asia/Anhui
           config_order: base.header, isocalendar, base.repositories, followup, pagespeed, people
           config_padding: 10%
