@@ -18,7 +18,7 @@ jobs:
           filename: metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
-          user: sirpdboy
+          user: Sirpdboy
           config_timezone: Asia/Anhui
           config_order: base.header, isocalendar, base.repositories, followup, pagespeed, people
           config_padding: 10%
@@ -44,7 +44,7 @@ jobs:
           filename: metrics.additional.svg
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
-          user: MuaCat
+          user: Sirpdboy
           config_timezone: Asia/Anhui
           config_order: habits, stargazers, languages, stargazers, topics
           config_padding: 10%
