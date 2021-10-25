@@ -19,11 +19,9 @@ Here are some ideas to get you started:
 -->
 
 | <a href="https://github.com/sirpdboy/openwrt18.06"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sirpdboy&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="sirpdboy's github stats" /></a> |
-| ------------- | 
+ <a href="https://github.com/sirpdboy/openwrt18.06"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirpdboy&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- |  ------------- | 
 
-| <a href="https://github.com/sirpdboy/openwrt18.06"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirpdboy&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | 
-
-<img alt="🦑" width="400px" src="https://github.com/sirpdboy/sirpdboy/blob/main/metrics.svg"> 
-<img alt="🦑" width="400px" src="https://github.com/sirpdboy/sirpdboy/blob/main/metrics.additional.svg">
+<img alt="🦑" width="800px" src="https://github.com/sirpdboy/sirpdboy/blob/main/metrics.svg"> 
+<img alt="🦑" width="800px" src="https://github.com/sirpdboy/sirpdboy/blob/main/metrics.additional.svg">
 
