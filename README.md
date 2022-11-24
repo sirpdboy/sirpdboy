@@ -1,12 +1,7 @@
 <p align="center"><a href="https://github.com/sirpdboy/openwrt18.06"><img width="80%" src="./assets/gh-readme-header.png" /></a></p>
-
+![hello](https://views.whatilearened.today/views/github/sirpdboy/deplives.svg)
 <br />
 ### Hi there 👋
-<p align="center">
-    <a href="https://github.com/sirpdboy">
-      <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sirpdboy&include_all_commits=true&count_private=false&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
-    </a>
-</p>
 <!--
 **Sirpdboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
