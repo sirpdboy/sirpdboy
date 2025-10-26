@@ -7,7 +7,7 @@
 #### Top Repositories
 
 <a href="https://github.com/sirpdboy/openwrt">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sirpdboy&repo=luci-app-luci-app-openwrt&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sirpdboy&repo=openwrt&theme=buefy" />
 </a>
 <a href="https://github.com/sirpdboy/luci-app-watchdog">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sirpdboy&repo=luci-app-watchdog&theme=buefy" />
