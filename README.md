@@ -6,7 +6,7 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sirpdboy&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)
 #### Top Repositories
 
-<a href="https://github.com/sirpdboy/luci-app-openwrt">
+<a href="https://github.com/sirpdboy/openwrt">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sirpdboy&repo=luci-app-luci-app-openwrt&theme=buefy" />
 </a>
 <a href="https://github.com/sirpdboy/luci-app-watchdog">
@@ -45,8 +45,8 @@
 <a href="https://github.com/sirpdboy/luci-theme-opentopd">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sirpdboy&repo=luci-theme-opentopd&theme=buefy" />
 </a>
-<a href="https://github.com/sirpdboy/luci-app-lukcy">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sirpdboy&repo=luci-app-lukcy&theme=buefy" />
+<a href="https://github.com/sirpdboy/luci-app-lucky">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sirpdboy&repo=luci-app-lucky&theme=buefy" />
 </a>
 <a href="https://github.com/sirpdboy/luci-app-parentcontrol">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sirpdboy&repo=luci-app-parentcontrol&theme=buefy" />
