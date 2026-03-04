@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   <a target="_blank" href="https://github.com/sirpdboy/luci-theme-kucat/releases"> <img alt="GitHub release" src="https://img.shields.io/github/v/release/sirpdboy/luci-theme-kucat"></a>
   <a href="https://github.com/sirpdboy/luci-theme-kucat/releases"><img alt="Downloads" src="https://img.shields.io/github/downloads/sirpdboy/luci-theme-kucat/total"></a>
   
-| <a href="https://github.com/sirpdboy/openwrt"><img align="center" src="https://img.shields.io/badge/OpenWrt-ff0000?logo=openwrt&logoColor=white" alt="sirpdboy's github stats" /></a> | <a href="https://github.com/sirpdboy/openwrt"><img align="center" src="https://img.shields.io/badge/Safari-000000?logo=safari&logoColor=white" /></a> |
+| <a href="https://github.com/sirpdboy/openwrt"><img align="center" src="https://img.shields.io/badge/EzOpWrt-ff0000?logo=openwrt&logoColor=white" alt="sirpdboy's github stats" /></a> | <a href="https://github.com/sirpdboy/openwrt"><img align="center" src="https://img.shields.io/badge/sirpdboy-4285F4?logo=safari&logoColor=white" /></a> |
 | ------------- |  ------------- | 
 | <img alt="🦑" width="400px" src="https://github.com/sirpdboy/sirpdboy/blob/main/metrics.svg">|<img alt="🦑" width="400px" src="https://github.com/sirpdboy/sirpdboy/blob/main/metrics.additional.svg">|
 
